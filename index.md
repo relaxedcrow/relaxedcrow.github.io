@@ -20,4 +20,8 @@ Tap the screen to jump, just make sure to time them correctly!
 
 ## Images
 
-![alt-text-1](1.png "title-1") ![alt-text-2](2.png "title-2")
+<p float="left">
+  <img src="/1.png" width="25" />
+  <img src="/2.png" width="25" /> 
+  <img src="/3.png" width="25" />
+</p>
