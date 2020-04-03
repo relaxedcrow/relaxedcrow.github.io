@@ -14,4 +14,4 @@ How to play:
 
 Tap the screen to jump, just make sure to time them correctly!
 
-<a href='https://play.google.com/store/apps/details?id=com.RelaxedCrow.JumpBash3D&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+https://play.google.com/store/apps/details?id=com.RelaxedCrow.JumpBash3D
