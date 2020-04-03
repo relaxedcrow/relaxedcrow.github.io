@@ -16,7 +16,7 @@ Tap the screen to jump, just make sure to time them correctly!
 
 ## Download:
 
-<a href="https://play.google.com/store/apps/details?id=com.RelaxedCrow.JumpBash3D">https://play.google.com/store/apps/details?id=com.RelaxedCrow.JumpBash3D</a>
+[https://play.google.com/store/apps/details?id=com.RelaxedCrow.JumpBash3D](https://play.google.com/store/apps/details?id=com.RelaxedCrow.JumpBash3D)
 
 ## Images
 
@@ -29,11 +29,6 @@ Tap the screen to jump, just make sure to time them correctly!
 
 ## Privacy Policy
 
-<a href="https://relaxedcrow.github.io/privacy">https://relaxedcrow.github.io/privacy</a>
-
-
-
-
-
+[https://relaxedcrow.github.io/privacy](https://relaxedcrow.github.io/privacy)
 
 Copyright 2020, Relaxed Crow.
