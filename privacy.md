@@ -70,9 +70,9 @@ Our primary ad serving partner is AdMob (Google), we may also use Unity Ads (Uni
 
 For more information about their privacy policies, you may find linked below:
 
-- https://policies.google.com/technologies/partner-sites
+- [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites)
 
-- https://unity3d.com/legal/privacy-policy
+- [https://unity3d.com/legal/privacy-policy](https://unity3d.com/legal/privacy-policy)
 
 You recognize and agree that the advertising companies who deliver ads for Relaxed Crow Games may combine the information collected with other information they have independently collected from other services or products. These companies collect and use information under their own privacy policies. These ad serving technologies are integrated into Services; if you do not want to be subject to this technology, do not use or access Services. Although Relaxed Crow Games takes commercially reasonable steps to instruct such advertising companies to comply with the terms and conditions of this Privacy Policy, Relaxed Crow Games does not have access to or control of third party technologies.
 
