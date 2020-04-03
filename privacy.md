@@ -127,3 +127,5 @@ Relaxed Crow Games does not knowingly collect Personal Information from persons 
 If you believe that Relaxed Crow Games may have Personal Information from or about a child under the age of 16, please contact Relaxed Crow Games at: 
 
 relaxedcrow+support@gmail.com
+
+<p style="text-align: right">Copyright 2020, Relaxed Crow.</p>
