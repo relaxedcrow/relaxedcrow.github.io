@@ -16,5 +16,4 @@ Tap the screen to jump, just make sure to time them correctly!
 
 Google Play:
 
-<a href='https://play.google.com/store/apps/details?id=com.RelaxedCrow.JumpBash3D'>
-  
+<a href="https://play.google.com/store/apps/details?id=com.RelaxedCrow.JumpBash3D">Jump Bash 3D</a>
