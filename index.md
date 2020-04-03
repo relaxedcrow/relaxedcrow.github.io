@@ -14,6 +14,6 @@ See how far you can go and aim for that high score!
 
 Tap the screen to jump, just make sure to time them correctly!
 
-## Google Play:
+## Download:
 
-<a href="https://play.google.com/store/apps/details?id=com.RelaxedCrow.JumpBash3D">Jump Bash 3D</a>
+<a href="https://play.google.com/store/apps/details?id=com.RelaxedCrow.JumpBash3D">Google Play</a>
