@@ -4,16 +4,16 @@ Addictive and fun gameplay, tap and jump your way through a variety of moving ob
 
 See how far you can go and aim for that high score!
 
-Features:
+## Features:
 
 - Three levels of difficulty.
 - Randomly generated level design.
 - 30 different obstacles to learn and master.
 
-How to play:
+## How to play:
 
 Tap the screen to jump, just make sure to time them correctly!
 
-Google Play:
+## Google Play:
 
 <a href="https://play.google.com/store/apps/details?id=com.RelaxedCrow.JumpBash3D">Jump Bash 3D</a>
