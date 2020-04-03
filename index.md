@@ -20,4 +20,4 @@ Tap the screen to jump, just make sure to time them correctly!
 
 ## Images
 
-<img src="1.PNG" alt="Screenshot1">
+![alt-text-1](1.png "title-1") ![alt-text-2](2.png "title-2")
