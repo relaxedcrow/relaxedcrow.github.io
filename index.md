@@ -31,4 +31,4 @@ Tap the screen to jump, just make sure to time them correctly!
 
 <a href="https://relaxedcrow.github.io/privacy">https://relaxedcrow.github.io/privacy</a>
 
-<center><b>Copyright 2020, Relaxed Crow.</b></center>
+Copyright 2020, Relaxed Crow.
