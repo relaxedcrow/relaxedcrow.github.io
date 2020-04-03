@@ -26,3 +26,7 @@ Tap the screen to jump, just make sure to time them correctly!
   <img src="/3.png" width="200" />
   <img src="/4.png" width="200" />
 </p>
+
+## Privacy Policy
+
+<a href="https://relaxedcrow.github.io/privacy">https://relaxedcrow.github.io/privacy</a>
