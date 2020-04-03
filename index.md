@@ -18,7 +18,7 @@ Tap the screen to jump, just make sure to time them correctly!
 
 [https://play.google.com/store/apps/details?id=com.RelaxedCrow.JumpBash3D](https://play.google.com/store/apps/details?id=com.RelaxedCrow.JumpBash3D)
 
-## Images
+## Images:
 
 <p float="left">
   <img src="/1.png" width="200" />
@@ -27,7 +27,7 @@ Tap the screen to jump, just make sure to time them correctly!
   <img src="/4.png" width="200" />
 </p>
 
-## Privacy Policy
+## Privacy Policy:
 
 [https://relaxedcrow.github.io/privacy](https://relaxedcrow.github.io/privacy)
 
