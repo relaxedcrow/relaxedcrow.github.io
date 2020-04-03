@@ -124,4 +124,6 @@ Relaxed Crow Games follows generally accepted industry standards and maintains r
 
 Relaxed Crow Games does not knowingly collect Personal Information from persons under the age of 16 without parental consent. Relaxed Crow Games requires device owners to specify their age before any Personal Information is collected. If it comes to Relaxed Crow Games’ attention that Personal Information has been collected from a person under the age of 16, Relaxed Crow Games will delete this information as quickly as possible. 
 
-If you believe that Relaxed Crow Games may have Personal Information from or about a child under the age of 16, please contact Relaxed Crow Games at: relaxedcrow+support@gmail.com
+If you believe that Relaxed Crow Games may have Personal Information from or about a child under the age of 16, please contact Relaxed Crow Games at: 
+
+relaxedcrow+support@gmail.com
