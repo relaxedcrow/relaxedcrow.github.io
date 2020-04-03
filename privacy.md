@@ -22,13 +22,10 @@ Relaxed Crow Games may use analytics tools to develop and analyse use of the Ser
 
 Analytics tools we may use include:
 
+- Google Analytics
 
-    Google Analytics
-
-
-    Unity Analytics
-
-
+- Unity Analytics
+    
 Analytics data collection does not include personally identifying information. Relaxed Crow Games does not merge the non-personally identifying analytics data that we collect with personally identifying information from any other source.
 
 
@@ -63,12 +60,9 @@ Relaxed Crow Games reserves the right to use and disclose the collected non-pers
 
 Our partners may include the following companies:
 
+- Google
 
-    Google
-
-
-    Unity Technologies
-
+- Unity Technologies
 
 Relaxed Crow Games may employ third party ad serving technologies that use certain methods to collect information as a result of ad serving through Services. Relaxed Crow Games or third parties operating the ad serving technology may use demographic and location information as well as information logged from your hardware or device to ensure that appropriate advertising is presented within the Service. Relaxed Crow Games or third parties may collect and use data for this purpose including, but not limited to IP address (including but not limited to for purposes of determining your coarse location), Device ID, MAC, software, applications, hardware, and in-game information. The foregoing data may be used and disclosed in accordance with this Privacy Policy and the privacy policy of the company providing the ad serving technology.
 
@@ -76,12 +70,9 @@ Our primary ad serving partner is AdMob (Google), we may also use Unity Ads (Uni
 
 For more information about their privacy policies, you may find linked below:
 
+- https://policies.google.com/technologies/partner-sites
 
-    https://policies.google.com/technologies/partner-sites
-
-
-    https://unity3d.com/legal/privacy-policy
-
+- https://unity3d.com/legal/privacy-policy
 
 You recognize and agree that the advertising companies who deliver ads for Relaxed Crow Games may combine the information collected with other information they have independently collected from other services or products. These companies collect and use information under their own privacy policies. These ad serving technologies are integrated into Services; if you do not want to be subject to this technology, do not use or access Services. Although Relaxed Crow Games takes commercially reasonable steps to instruct such advertising companies to comply with the terms and conditions of this Privacy Policy, Relaxed Crow Games does not have access to or control of third party technologies.
 
