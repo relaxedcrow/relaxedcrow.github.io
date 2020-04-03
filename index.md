@@ -1,4 +1,4 @@
-## Jump Bash 3D
+# Jump Bash 3D
 
 Addictive and fun gameplay, tap and jump your way through a variety of moving obstacles and avoid being hit!
 
