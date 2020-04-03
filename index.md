@@ -20,4 +20,4 @@ Tap the screen to jump, just make sure to time them correctly!
 
 ## Images
 
-<img src="https://relaxedcrow.github.io/1.PNG" alt="Screenshot1">
+<img src="1.PNG" alt="Screenshot1">
