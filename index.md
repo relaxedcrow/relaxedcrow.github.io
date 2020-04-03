@@ -1,6 +1,3 @@
-title: [Relaxed Crow]
-description: [Like to make games!]
-
 # Jump Bash 3D
 
 Jump Bash 3D is a fun and addictive game, just tap and jump your way through a variety of moving obstacles and avoid being hit!
