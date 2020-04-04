@@ -7,7 +7,7 @@ Relaxed Crow Games (“Relaxed Crow Games”) has adopted this privacy policy (�
 
 Should you have any questions relating to this Privacy Policy, please contact us at:
 
-relaxedcrow+support@gmail.com
+relaxedcrow+support (at) gmail.com
 
 Relaxed Crow Games reserves the right to modify this Privacy Policy at any time, so please review periodically. Your continued use of these Services will signify your acceptance of the changes to this Privacy Policy.
 
@@ -126,6 +126,6 @@ Relaxed Crow Games does not knowingly collect Personal Information from persons 
 
 If you believe that Relaxed Crow Games may have Personal Information from or about a child under the age of 16, please contact Relaxed Crow Games at: 
 
-relaxedcrow+support@gmail.com
+relaxedcrow+support (at) gmail.com
 
 <p style="text-align: right">Copyright 2020, Relaxed Crow.</p>
