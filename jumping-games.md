@@ -34,3 +34,9 @@ Tap the screen to jump and avoid the obstacles, just make sure to time them corr
 ## Support:
 
 Have any questions, feedback or suggestions? Don’t hesitate to contact us and let us know!
+
+## Privacy Policy:
+
+[https://relaxedcrow.github.io/privacy](https://relaxedcrow.github.io/privacy)
+
+<p style="text-align: right">Copyright 2020, Relaxed Crow.</p>
