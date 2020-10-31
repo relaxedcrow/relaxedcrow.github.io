@@ -1,6 +1,6 @@
 A place to document my games.
 
-## Games
+## Games:
 
 [Jump Bash 3D](https://relaxedcrow.github.io/jumping-games)
 
