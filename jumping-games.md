@@ -16,7 +16,7 @@ Caution: This game is insane – jumping games have never been this fun. Challen
 
 ## Google Play
 
-https://play.google.com/store/apps/details?id=com.RelaxedCrow.JumpBash3D
+[https://play.google.com/store/apps/details?id=com.RelaxedCrow.JumpBash3D](https://play.google.com/store/apps/details?id=com.RelaxedCrow.JumpBash3D)
 
 ## Screenshots
 
